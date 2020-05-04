@@ -1,0 +1,7 @@
+<======For a new repository already made============>
+cd "C:\Users\dell\Desktop\Web Dev\GamesOthers\git_intro"
+git init
+git remote add origin https://github.com/agarwalraghav2012/git_intro
+git remote -v
+git add .
+git push origin master
